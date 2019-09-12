@@ -2,7 +2,7 @@
 title: Just Markdown
 description: A simple Markdown file
 date: 2019-09-12
-image: ''
+image: "/images/ethan-dow-l7Wb6FXHIOQ-unsplash.jpg"
 
 ---
 # Just Markdown
