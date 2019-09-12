@@ -33,7 +33,9 @@ We don't store your content, _you_ do.
 * Pick up a [Stackbit](https://stackbit.com) theme
 
 <a href="https://app.forestry.io/quick-start?repo=dirtyf/just-markdown&engine=other">
-    <img alt="Import this project into Forestry" src="https://assets.forestry.io/import-to-forestryK.svg" />
+<img alt="Import this project into Forestry" src="https://assets.forestry.io/import-to-forestryK.svg" />
 </a>
 
 _This file was edited in Forestry._
+
+Credits: Photo by [Ethan Dow](https://unsplash.com/@ethandow?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/forestry?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
