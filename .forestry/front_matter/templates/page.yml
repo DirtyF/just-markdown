@@ -11,3 +11,9 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: image
+  type: file
+  config:
+    maxSize: '1'
+  label: image
+  description: Image shown when sharing on social media
