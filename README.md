@@ -36,8 +36,8 @@ We don't store your content, _you_ do.
 <img alt="Import this project into Forestry" src="https://assets.forestry.io/import-to-forestryK.svg" />
 </a>
 
-_This file was edited in Forestry._
-
 ## Credits
 
 Photo by [Ethan Dow](https://unsplash.com/@ethandow) on [Unsplash](https://unsplash.com/search/photos/forestry)
+
+_This file was edited in Forestry._
