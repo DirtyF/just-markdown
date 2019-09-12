@@ -32,4 +32,8 @@ We don't store your content, _you_ do.
 * [Pick up one of our demo starter](https://forestry.io/starters)
 * Pick up a [Stackbit](https://stackbit.com) theme
 
+<a href="https://app.forestry.io/quick-start?repo=dirtyf/just-markdown&engine=other">
+    <img alt="Import this project into Forestry" src="https://assets.forestry.io/import-to-forestryK.svg" />
+</a>
+
 _This file was edited in Forestry._
