@@ -2,16 +2,31 @@
 title: Just Markdown
 description: A simple Markdown file
 date: 2019-09-12
----
 
+---
 # Just Markdown
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+You don't need to use a static site generator to benefit from Forestry user interface. Forestry is flexible enough to let you import any repository containing Markdown files, as well as data files: JSON, YAML, TOML.
 
-> Less is more
+> It just works.
 
 ## Forestry CMS
 
-Lorem ipsum dolor sit amet, [consectetur adipisicing elit](https://forestry.io), sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Forestry is a git-based CMS. Once connected to your Git provider, it will commit back changes to your repository.
 
+ We don't store your content, _you_ do. 
 
+### Features
+
+* Import many **branches**
+* **Instant Preview** environment with pre-defined settings for most common static site generators: Gatsby, Hugo, Jekyll, Eleventy, Gridsome, Next, Nuxt, VuePress etc.
+* **Organizations**, teams and collaborators
+* **Customizable sidebar**: define content and data sections for your editorial team
+* Front Matter Templates: create **content models** from existing documents to ease the creation of new documents
+
+## Get started
+
+* [Pick up one of our demo starter](https://forestry.io/starters)
+* Pick up a [Stackbit](https://stackbit.com) theme
+
+_This file was edited in Forestry._
