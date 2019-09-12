@@ -9,13 +9,15 @@ image: "/images/ethan-dow-l7Wb6FXHIOQ-unsplash.jpg"
 
 You don't need to use a static site generator to benefit from Forestry user interface. Forestry is flexible enough to let you import any repository containing Markdown files, as well as data files: JSON, YAML, TOML.
 
+![](/images/forestry-cms.jpg)
+
 > It just works.
 
 ## Forestry CMS
 
 [Forestry](https://forestry.io) is a git-based CMS. Once connected to your Git provider, it will commit back changes to your repository.
 
- We don't store your content, _you_ do. 
+We don't store your content, _you_ do.
 
 ### Features
 
