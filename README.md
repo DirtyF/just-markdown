@@ -12,7 +12,7 @@ You don't need to use a static site generator to benefit from Forestry user inte
 
 ## Forestry CMS
 
-Forestry is a git-based CMS. Once connected to your Git provider, it will commit back changes to your repository.
+[Forestry](https://forestry.io) is a git-based CMS. Once connected to your Git provider, it will commit back changes to your repository.
 
  We don't store your content, _you_ do. 
 
