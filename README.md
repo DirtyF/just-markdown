@@ -38,4 +38,4 @@ We don't store your content, _you_ do.
 
 _This file was edited in Forestry._
 
-Credits: Photo by [Ethan Dow](https://unsplash.com/@ethandow?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/forestry?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+Credits: Photo by [Ethan Dow](https://unsplash.com/@ethandow) on [Unsplash](https://unsplash.com/search/photos/forestry)
