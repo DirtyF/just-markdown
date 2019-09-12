@@ -2,6 +2,7 @@
 title: Just Markdown
 description: A simple Markdown file
 date: 2019-09-12
+image: ''
 
 ---
 # Just Markdown

@@ -17,3 +17,5 @@ fields:
     maxSize: '1'
   label: image
   description: Image shown when sharing on social media
+pages:
+- README.md
