@@ -5,10 +5,17 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: ".forestry"
+  label: Configuration
+  create: none
+  match: "**/*.yml"
+- type: directory
   path: ''
   label: Content
   create: all
   match: "*.md"
+  templates:
+  - page
 upload_dir: images
 public_path: "/images"
 front_matter_path: ''
