@@ -2,20 +2,17 @@
 label: page
 hide_body: false
 fields:
-- type: text
-  name: title
-  label: title
-- type: text
-  name: description
-  label: description
+- name: meta
+  type: blocks
+  label: Meta
+  template_types:
+  - seo
+  config:
+    min: 
+    max: 
+  description: Page metadata
 - type: datetime
   name: date
   label: date
-- name: image
-  type: file
-  config:
-    maxSize: '1'
-  label: image
-  description: Image shown when sharing on social media
 pages:
 - README.md
