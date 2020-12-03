@@ -1,4 +1,31 @@
 ---
 label: SEO
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+    min: 
+    max: 180
+  label: Title
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+    min: 80
+    max: 500
+  label: Description
+  description: A condensed user-friendly summary of what people are expected to get
+    from this page can be shown in the search engine results pages.
+- name: image
+  type: file
+  config:
+    maxSize: 2
+  label: Image
+  description: 'Image displayed when the page is shared on social media '
+  default: "/images/ethan-dow-l7Wb6FXHIOQ-unsplash.jpg"
