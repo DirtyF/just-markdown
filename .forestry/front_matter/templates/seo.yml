@@ -17,7 +17,7 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-    min: 80
+    min: 50
     max: 500
   label: Description
   description: A condensed user-friendly summary of what people are expected to get
