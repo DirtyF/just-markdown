@@ -14,5 +14,6 @@ fields:
 - type: datetime
   name: date
   label: date
+  default: now
 pages:
 - README.md
