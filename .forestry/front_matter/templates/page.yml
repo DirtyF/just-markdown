@@ -11,6 +11,13 @@ fields:
     min: 
     max: 
   description: Page metadata
+  showOnly:
+    field: show
+    value: true
+- name: show
+  type: boolean
+  label: show
+  default: true
 - type: datetime
   name: date
   label: date
