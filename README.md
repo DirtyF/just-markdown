@@ -3,6 +3,12 @@ title: Just Markdown
 description: A simple Markdown file
 date: 2019-09-12
 image: "/images/ethan-dow-l7Wb6FXHIOQ-unsplash.jpg"
+meta:
+- template: seo
+  image: "/images/ethan-dow-l7Wb6FXHIOQ-unsplash.jpg"
+  title: This page is just a simple Markdown file
+  description: Forestry builds a custom user interface on top of your content.
+show: true
 
 ---
 # Just Markdown
