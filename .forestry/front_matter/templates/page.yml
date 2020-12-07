@@ -32,4 +32,5 @@ fields:
 pages:
 - README.md
 - a-page.md
+- folder/page.md
 - folder/readme.md
