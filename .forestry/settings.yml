@@ -13,7 +13,7 @@ sections:
   path: ''
   label: Content
   create: all
-  match: "*.md"
+  match: "**/*"
   templates:
   - page
 upload_dir: images
