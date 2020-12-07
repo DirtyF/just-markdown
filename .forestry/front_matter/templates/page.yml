@@ -31,3 +31,4 @@ fields:
   label: tags
 pages:
 - README.md
+- a-page.md
