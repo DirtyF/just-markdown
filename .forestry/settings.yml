@@ -13,7 +13,7 @@ sections:
   path: ''
   label: Content
   create: all
-  match: "**/*"
+  match: "**/*.md"
   exclude: "{.forestry}"
   templates:
   - page
