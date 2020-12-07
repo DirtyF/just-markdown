@@ -2,25 +2,32 @@
 label: page
 hide_body: false
 fields:
-- name: meta
-  type: blocks
-  label: Meta
-  template_types:
-  - seo
+- name: title
+  type: text
   config:
-    min: 
-    max: 
-  description: Page metadata
-  showOnly:
-    field: show
-    value: true
-- name: show
-  type: boolean
-  label: show
-  default: true
+    required: false
+  label: title
 - type: datetime
   name: date
   label: date
   default: now
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: description
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: image
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
 pages:
 - README.md
