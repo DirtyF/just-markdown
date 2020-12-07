@@ -13,8 +13,7 @@ sections:
   path: ''
   label: Content
   create: all
-  match: "**/*.md"
-  exclude: "{.forestry}"
+  match: "*.md"
   templates:
   - page
 upload_dir: images
