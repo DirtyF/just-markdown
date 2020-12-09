@@ -13,4 +13,7 @@ Do tempor sint mollit reprehenderit ex consectetur proident pariatur. Tempor exe
 
 Ipsum aute excepteur aliqua ex minim velit laborum sit mollit incididunt duis eu sit. Velit do sit veniam sint quis ut eu pariatur. Ullamco ullamco sit enim consectetur esse. Ad et ea est amet aliquip culpa eu ullamco consequat nisi est anim. Nostrud do nisi sint velit. Nulla et anim sint amet ad officia cillum do mollit irure excepteur minim. Anim cupidatat aliqua do consectetur Lorem Lorem.
 
-![](/images/bullseye-gradient.svg)
+![](/images/circle.svg)
+
+![](/images/gradient.svg)
+
