@@ -9,6 +9,13 @@ meta:
   title: This page is just a simple Markdown file
   description: Forestry builds a custom user interface on top of your content.
 show: true
+text: Arbeid med behandling og rehabilitering av asylsøkere, flyktninger, torturoverlevere
+  fordrer et menneskerettighetsperspektiv. Dokumentasjon av psykiske og fysiske torturskader
+  skal skje i henhold til Istanbulprotokollen. Dette er FN’s manual for effektiv undersøkelse
+  og dokumentasjon av tortur og annen grusom, umenneskelig og nedverdigende behandling
+  eller straff. Manualen er ratifisert av Norge. Her forteller [Pau Pèrez-Sales](https://www.pauperez.cat/)
+  mer om hva en menneskerettighetsbasert praksis innebærer.
+tags: []
 
 ---
 # Just Markdown
