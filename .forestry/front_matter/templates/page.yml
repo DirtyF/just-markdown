@@ -20,15 +20,6 @@ fields:
     schema:
       format: markdown
   label: description
-- name: text
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: html-blocks
-  label: text
 - name: image
   type: file
   config:
