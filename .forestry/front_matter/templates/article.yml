@@ -5,6 +5,7 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: post
 - type: text
   name: title
   label: title
@@ -14,14 +15,31 @@ fields:
 - type: text
   name: description
   label: description
+- type: datetime
+  name: date
+  label: date
+  default: now
+- type: datetime
+  name: lastmod
+  label: lastmod
+  default: now
+- type: boolean
+  name: draft
+  label: draft
 - type: boolean
   name: toc
   label: toc
+  default: true
 - type: list
   name: authors
   label: authors
-- type: list
-  name: tags
+  config:
+    use_select: false
+    source:
+      type: simple
+- name: tags
+  type: tag_list
+  default: []
   label: tags
 - type: list
   name: categories
@@ -29,24 +47,15 @@ fields:
 - type: list
   name: series
   label: series
-- type: datetime
-  name: date
-  label: date
-- type: datetime
-  name: lastmod
-  label: lastmod
-- type: text
-  name: featuredVideo
-  label: featuredVideo
 - type: file
   name: featuredImage
   label: featuredImage
-- type: boolean
-  name: draft
-  label: draft
 - type: file
   name: image
   label: image
+- type: text
+  name: featuredVideo
+  label: featuredVideo
 - type: text
   name: audiopost
   label: audiopost
