@@ -7,13 +7,13 @@ toc: true
 authors: []
 tags: []
 categories:
-- categorie2
+- new
 series: []
 date: 2021-01-10T06:56:37.000+04:00
 lastmod: 2021-01-10T06:56:37+04:00
 featuredVideo: ''
 featuredImage: "/images/ethan-dow-l7Wb6FXHIOQ-unsplash.jpg"
-draft: false
+draft: true
 image: "/images/forestry-cms.jpg"
 audiopost: "/insights/posts/article1/audio1.mp3"
 
