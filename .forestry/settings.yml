@@ -11,6 +11,7 @@ sections:
   match: "*.md"
   templates:
   - page
+  - article
 - type: directory
   path: folder
   label: Folder
