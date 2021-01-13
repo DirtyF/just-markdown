@@ -11,13 +11,13 @@ sections:
   match: "*.md"
   templates:
   - page
-  - article
 - type: directory
   path: folder
   label: Folder
   create: documents
   match: "*.md"
   templates:
+  - article
   - page
 - type: directory
   path: ".forestry"
