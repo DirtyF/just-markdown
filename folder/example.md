@@ -16,5 +16,9 @@ featuredImage: "/images/ethan-dow-l7Wb6FXHIOQ-unsplash.jpg"
 draft: true
 image: "/images/forestry-cms.jpg"
 audiopost: "/insights/posts/article1/audio1.mp3"
-
+sizeguide: 
+ - [ "s", 23, 40, 51 ] 
+ - [ "m", 24, 41, 52 ] 
+ - [ "l", 25, 42, 53 ] 
+ - [ "xl", 26, 43, 54 ]
 ---
