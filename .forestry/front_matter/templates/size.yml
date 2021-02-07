@@ -1,0 +1,55 @@
+---
+label: Size
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: text
+  name: description
+  label: description
+- type: boolean
+  name: toc
+  label: toc
+- type: list
+  name: authors
+  label: authors
+- type: list
+  name: tags
+  label: tags
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: series
+  label: series
+- type: datetime
+  name: date
+  label: date
+- type: datetime
+  name: lastmod
+  label: lastmod
+- type: text
+  name: featuredVideo
+  label: featuredVideo
+- type: file
+  name: featuredImage
+  label: featuredImage
+- type: boolean
+  name: draft
+  label: draft
+- type: file
+  name: image
+  label: image
+- type: text
+  name: audiopost
+  label: audiopost
+- type: list
+  name: sizeguide
+  label: sizeguide
