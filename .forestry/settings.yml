@@ -17,6 +17,7 @@ sections:
   create: documents
   match: "*.md"
   templates:
+  - size
   - article
   - page
 - type: directory
