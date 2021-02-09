@@ -32,9 +32,9 @@ sizeguide:
 - - xl
   - 26
   - 43
-text: "<p>Let's add some text here. Let's add some text here. Let's add some text
-  here. Let's add some text here. Let's add some text here. Let's add some text here.
-  Let's add some text here. Let's add some text here. Let's add some text here. Let's
-  add some text here. Let's add some text here.</p>"
+text: "<p>Let's add <strong>some</strong> text here. Let's add some text here. Let's
+  add some text here. Let's add some text here. Let's add some text here. Let's add
+  some text here. Let's add some text here. Let's add some text here. Let's add <em>some</em>
+  text here. Let's add some text here. Let's add some text here.</p>"
 
 ---
