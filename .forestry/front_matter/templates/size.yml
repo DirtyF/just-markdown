@@ -3,20 +3,14 @@ label: Size
 hide_body: true
 fields:
 - type: text
-  name: layout
-  label: layout
-- type: text
   name: title
   label: title
-- type: text
-  name: subtitle
-  label: subtitle
+- type: datetime
+  name: date
+  label: date
 - type: text
   name: description
   label: description
-- type: boolean
-  name: toc
-  label: toc
 - type: list
   name: authors
   label: authors
@@ -26,12 +20,6 @@ fields:
 - type: list
   name: categories
   label: categories
-- type: list
-  name: series
-  label: series
-- type: datetime
-  name: date
-  label: date
 - name: text
   type: textarea
   default: ''
@@ -44,9 +32,6 @@ fields:
 - type: datetime
   name: lastmod
   label: lastmod
-- type: text
-  name: featuredVideo
-  label: featuredVideo
 - type: file
   name: featuredImage
   label: featuredImage
@@ -56,9 +41,3 @@ fields:
 - type: file
   name: image
   label: image
-- type: text
-  name: audiopost
-  label: audiopost
-- type: list
-  name: sizeguide
-  label: sizeguide
