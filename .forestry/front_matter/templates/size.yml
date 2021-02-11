@@ -8,9 +8,15 @@ fields:
 - type: datetime
   name: date
   label: date
+- type: datetime
+  name: lastmod
+  label: lastmod
 - type: text
   name: description
   label: description
+- type: boolean
+  name: draft
+  label: draft
 - type: list
   name: authors
   label: authors
@@ -20,24 +26,6 @@ fields:
 - type: list
   name: categories
   label: categories
-- name: text
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: html-blocks
-  label: text
-- type: datetime
-  name: lastmod
-  label: lastmod
-- type: file
-  name: featuredImage
-  label: featuredImage
-- type: boolean
-  name: draft
-  label: draft
 - type: file
   name: image
   label: image
