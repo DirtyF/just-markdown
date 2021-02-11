@@ -1,7 +1,6 @@
 ---
 date: 2020-12-07T16:27:29.000+00:00
-tags:
-- test
+tags: []
 title: A page
 description: Short
 image: ''
