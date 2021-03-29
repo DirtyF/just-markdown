@@ -59,6 +59,30 @@
         "Media Monitoring": {
           "message": "Media Monitoring",
           "description": "The label for category Media Monitoring in sidebar mainSidebar"
+        },
+        "Stakeholder Engagement": {
+          "message": "Stakeholder Engagement",
+          "description": "The label for category Stakeholder Engagement in sidebar mainSidebar"
+        },
+        "Short Path Map": {
+          "message": "Short Path Map",
+          "description": "The label for category Short Path Map in sidebar mainSidebar"
+        },
+        "Projects": {
+          "message": "Projects",
+          "description": "The label for category Projects in sidebar mainSidebar"
+        },
+        "Reporting": {
+          "message": "Reporting",
+          "description": "The label for category Reporting in sidebar mainSidebar"
+        },
+        "Dashboard": {
+          "message": "Dashboard",
+          "description": "The label for category Dashboard in sidebar mainSidebar"
+        },
+        "User Management": {
+          "description": "The label for category User Management in sidebar mainSidebar",
+          "message": "User Management"
         }
       }
     }
