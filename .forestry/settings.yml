@@ -4,6 +4,11 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: data/sidebar.json
+  label: Json file
+  match: "**/*"
+  read_only: true
 - type: directory
   path: ''
   label: Content
