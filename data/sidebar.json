@@ -51,6 +51,10 @@
         "Get Started": {
           "message": "Empezar",
           "description": "The label for category Get Started in sidebar mainSidebar"
+        },
+        "Issue Landscape": {
+          "message": "Issue Landscape",
+          "description": "The label for category Issue Landscape in sidebar mainSidebar"
         }
       }
     }
