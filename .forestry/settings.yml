@@ -7,8 +7,7 @@ sections:
 - type: document
   path: data/sidebar.json
   label: Json file
-  match: "**/*"
-  read_only: true
+  read_only: false
 - type: directory
   path: ''
   label: Content
