@@ -9,7 +9,7 @@
     "mainSidebar": {
       "category": {
         "Get Started": {
-          "message": "Empezar",
+          "message": "Get Started",
           "description": "The label for category Get Started in sidebar mainSidebar"
         },
         "Issue Landscape": {
