@@ -1,0 +1,120 @@
+---
+label: Sidebar
+hide_body: true
+fields:
+- type: field_group
+  name: version
+  label: version
+  fields:
+  - type: field_group
+    name: label
+    label: label
+    fields:
+    - type: text
+      name: message
+      label: message
+    - type: text
+      name: description
+      label: description
+- type: field_group
+  name: sidebar
+  label: sidebar
+  fields:
+  - type: field_group
+    name: mainSidebar
+    label: mainSidebar
+    fields:
+    - type: field_group
+      name: category
+      label: category
+      fields:
+      - type: field_group
+        name: Get Started
+        label: Get Started
+        fields:
+        - type: text
+          name: message
+          label: message
+        - type: text
+          name: description
+          label: description
+      - type: field_group
+        name: Issue Landscape
+        label: Issue Landscape
+        fields:
+        - type: text
+          name: message
+          label: message
+        - type: text
+          name: description
+          label: description
+      - type: field_group
+        name: Media Monitoring
+        label: Media Monitoring
+        fields:
+        - type: text
+          name: message
+          label: message
+        - type: text
+          name: description
+          label: description
+      - type: field_group
+        name: Stakeholder Engagement
+        label: Stakeholder Engagement
+        fields:
+        - type: text
+          name: message
+          label: message
+        - type: text
+          name: description
+          label: description
+      - type: field_group
+        name: Short Path Map
+        label: Short Path Map
+        fields:
+        - type: text
+          name: message
+          label: message
+        - type: text
+          name: description
+          label: description
+      - type: field_group
+        name: Projects
+        label: Projects
+        fields:
+        - type: text
+          name: message
+          label: message
+        - type: text
+          name: description
+          label: description
+      - type: field_group
+        name: Reporting
+        label: Reporting
+        fields:
+        - type: text
+          name: message
+          label: message
+        - type: text
+          name: description
+          label: description
+      - type: field_group
+        name: Dashboard
+        label: Dashboard
+        fields:
+        - type: text
+          name: message
+          label: message
+        - type: text
+          name: description
+          label: description
+      - type: field_group
+        name: User Management
+        label: User Management
+        fields:
+        - type: text
+          name: description
+          label: description
+        - type: text
+          name: message
+          label: message
