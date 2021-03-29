@@ -55,6 +55,10 @@
         "Issue Landscape": {
           "message": "Issue Landscape",
           "description": "The label for category Issue Landscape in sidebar mainSidebar"
+        },
+        "Media Monitoring": {
+          "message": "Media Monitoring",
+          "description": "The label for category Media Monitoring in sidebar mainSidebar"
         }
       }
     }
