@@ -7,7 +7,6 @@ sections:
 - type: document
   path: data/sidebar.json
   label: Json file
-  read_only: false
 - type: directory
   path: ''
   label: Content
