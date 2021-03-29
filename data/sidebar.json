@@ -1,44 +1,4 @@
 {
-  "version.label": {
-    "message": "Next",
-    "description": "The label for version current"
-  },
-  "sidebar.mainSidebar.category.Get Started": {
-    "message": "Empezar",
-    "description": "The label for category Get Started in sidebar mainSidebar"
-  },
-  "sidebar.mainSidebar.category.Issue Landscape": {
-    "message": "Issue Landscape",
-    "description": "The label for category Issue Landscape in sidebar mainSidebar"
-  },
-  "sidebar.mainSidebar.category.Media Monitoring": {
-    "message": "Media Monitoring",
-    "description": "The label for category Media Monitoring in sidebar mainSidebar"
-  },
-  "sidebar.mainSidebar.category.Stakeholder Engagement": {
-    "message": "Stakeholder Engagement",
-    "description": "The label for category Stakeholder Engagement in sidebar mainSidebar"
-  },
-  "sidebar.mainSidebar.category.Short Path Map": {
-    "message": "Short Path Map",
-    "description": "The label for category Short Path Map in sidebar mainSidebar"
-  },
-  "sidebar.mainSidebar.category.Projects": {
-    "message": "Projects",
-    "description": "The label for category Projects in sidebar mainSidebar"
-  },
-  "sidebar.mainSidebar.category.Reporting": {
-    "message": "Reporting",
-    "description": "The label for category Reporting in sidebar mainSidebar"
-  },
-  "sidebar.mainSidebar.category.Dashboard": {
-    "message": "Dashboard",
-    "description": "The label for category Dashboard in sidebar mainSidebar"
-  },
-  "sidebar.mainSidebar.category.User Management": {
-    "message": "User Management",
-    "description": "The label for category User Management in sidebar mainSidebar"
-  },
   "version": {
     "label": {
       "message": "Next",
