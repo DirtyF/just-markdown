@@ -44,5 +44,15 @@
       "message": "Next",
       "description": "The label for version current"
     }
+  },
+  "sidebar": {
+    "mainSidebar": {
+      "category": {
+        "Get Started": {
+          "message": "Empezar",
+          "description": "The label for category Get Started in sidebar mainSidebar"
+        }
+      }
+    }
   }
 }
