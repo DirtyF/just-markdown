@@ -25,7 +25,7 @@ You don't need to use a static site generator to benefit from Forestry user inte
 
 ![](/images/forestry-cms.jpg)
 
-> It just works.
+> It just saves.
 
 ## Forestry CMS
 
