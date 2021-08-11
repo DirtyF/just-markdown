@@ -1,4 +1,16 @@
 ---
 label: List
 hide_body: true
-fields: []
+fields:
+- name: name
+  type: text
+  config:
+    required: true
+  label: name
+  default: Example Name
+- name: email
+  type: text
+  config:
+    required: true
+  label: email
+  default: username@example.com
