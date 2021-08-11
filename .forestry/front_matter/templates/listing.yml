@@ -5,11 +5,18 @@ fields:
 - name: listing
   type: field_group_list
   fields:
-  - name: listee
-    type: include
-    config: {}
-    template: list
-    label: Listee
+  - name: name
+    type: text
+    config:
+      required: true
+    label: name
+    default: Default Name
+  - name: email
+    type: text
+    config:
+      required: true
+    label: email
+    default: username@example.com
   config:
     min: 
     max: 
