@@ -1,4 +1,17 @@
 ---
 label: Listing
 hide_body: true
-fields: []
+fields:
+- name: listing
+  type: field_group_list
+  fields:
+  - name: listee
+    type: include
+    config: {}
+    template: list
+    label: Listee
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Listing
