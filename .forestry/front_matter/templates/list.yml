@@ -4,13 +4,13 @@ hide_body: true
 fields:
 - name: name
 type: text
-config:
-required: true
 label: Name
 default: Example Name
+config:
+  required: true
 - name: email
 type: text
-config:
-required: true
 label: Email
 default: example@example.com
+config:
+  required: true
