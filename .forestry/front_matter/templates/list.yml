@@ -1,0 +1,16 @@
+---
+label: Listed By
+hide_body: true
+fields:
+- name: name
+type: text
+config:
+required: true
+label: Name
+default: Example Name
+- name: email
+type: text
+config:
+required: true
+label: Email
+default: example@example.com
