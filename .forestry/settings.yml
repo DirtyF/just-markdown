@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: document
   path: data/sidebar.json
-  label: Json file
+  label: Sidebar
 - type: directory
   path: ''
   label: Content
